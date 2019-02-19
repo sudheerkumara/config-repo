@@ -8,7 +8,7 @@ logging:
 spring:
   data:
     mongodb:
-      host: mongo
+      host: localhost
       database: test
       port: 27017
 feign:
